@@ -96,7 +96,7 @@ strong, em, a {
     display: flex;
     text-align: center;
     justify-content: center;
-    margin: 6px auto 0px !important;
+    margin: 4px auto 0px !important;
     padding: 0;
 }
 
@@ -113,3 +113,4 @@ strong, em, a {
 .headerInfo > ul > li:not(:last-child):after {
     content: "•";
     margin-left: 8px;
+}
