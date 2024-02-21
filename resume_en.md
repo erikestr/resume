@@ -8,9 +8,9 @@ Azcapotzalco, 02419 Ciudad de México <a href="https://goo.gl/maps/nSSL3YdTYx6F5
 
 ## Technical Skills
 
-**Front End** | Angular, NextJS, Javascript, TypeScript, NodeJS, Android Studio, Ionic, Capacitor, Luciad, CSS, SASS
+**Front End** | Angular, React, Android Studio, Ionic, Capacitor, CSS, SASS, .NET.
 
-**Back End** | Java, Spring Boot, NestJS, C#, C++, PostgreSQL, MySQL, SQL Server, ASP.NET
+**Back End** | Java, Spring Boot, C#, .NET Framework, ASP.NET, PostgreSQL, MySQL, SQL Server.
 
 **Developer Tools** | Docker, Git, Jenkins, Agile Methodology SCRUM
 
