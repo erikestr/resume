@@ -83,6 +83,6 @@ _Frontend integración de PayPal_ <span class="spacer"></span> Angular | Typescr
 
 <!-- Move this section above Technical Skills if you're a student/new grad -->
 
-## Education
+## Educación
 
 **Instituto Tecnológico de Pachuca** - Ingeniero en Sistemas Computacionales, GPA (89.58)<span class="spacer"></span>2022
